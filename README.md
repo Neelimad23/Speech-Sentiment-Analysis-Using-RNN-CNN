@@ -1,1 +1,1 @@
-# Speech-Sentiment-Analysis-Using-RNN-CNN-LSTM-Transfer-Learning
+# Speech-Sentiment-Analysis-Using-RNN-CNN
